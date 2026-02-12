@@ -1,3 +1,3 @@
 # Gestión Aseos
 
-Projeto para gestión de aseos.
+Proyecto para gestión de aseos en un IES.
